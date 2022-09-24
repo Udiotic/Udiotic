@@ -1,4 +1,4 @@
-- Hi, I’m @Udiotic
+- Hi, I’m Udit
 - I’m interested in learing Computer Science
 - I currently work with the 'C++' programming language
 - I’m looking to collaborate on C/C++ projects in the near future
