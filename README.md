@@ -1,7 +1,5 @@
 - Hi, I’m Udit
-- I’m interested in learing Computer Science
-- I currently work with the 'C++' programming language
-- I’m looking to collaborate on C/C++ projects in the near future
+- I’m looking to collaborate on C++ projects. Heavily inclined on solving real world problems through programming.
 - How to reach me - Write to me at business2702uditsurve@gmail.com or add me on Discord (Udiotic#5960)!
 
 <!---
