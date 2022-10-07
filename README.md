@@ -1,5 +1,5 @@
 - Hi, I’m Udit
-- I’m looking to collaborate on C++ projects. Heavily inclined on solving real world problems through programming.
+- I’m looking to collaborate on C++ projects. Heavily inclined on solving real world problems.
 - How to reach me - Write to me at business2702uditsurve@gmail.com or add me on Discord (Udiotic#5960)!
 
 <!---
