@@ -1,6 +1,6 @@
 - Hi, I’m Udit
-- I’m looking to collaborate on C++ projects. Heavily inclined on solving real world problems.
-- How to reach me - Write to me at business2702uditsurve@gmail.com or add me on Discord (Udiotic#5960)!
+- I'm learning Java development at the moment
+- I'm currently looking to collaborate on android development projects!
 
 <!---
 Udiotic/Udiotic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
